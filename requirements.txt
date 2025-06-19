@@ -6,4 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-
+streamlit==1.25.0
